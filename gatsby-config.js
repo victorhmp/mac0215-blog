@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
+    title: 'MAC0215 Blog',
+    author: 'Victor Hugo M. Pinto',
+    description:
+      'A simple blog with updates on my research being conducted as part of the discipline MAC0215',
     siteUrl: 'https://victorhmp.github.io/mac0215-blog/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/mac0215-blog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
