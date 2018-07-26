@@ -18,7 +18,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`Victor Hugo M. Pinto`}
           style={{
             marginRight: rhythm(1 / 2),
             marginBottom: 0,
@@ -27,11 +27,9 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
-          </a>
+          Escrito por <strong>Victor Hugo M. Pinto</strong>, aluno do
+          Bacharelado em Ciência da Computação no IME-USP.{' '}
+          <a href="mailto:victor2142@gmail.com">Email para contato.</a>
         </p>
       </div>
     )
