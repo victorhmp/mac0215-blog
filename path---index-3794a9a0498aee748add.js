@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{395:function(e,t){e.exports={data:{site:{siteMetadata:{title:"MAC0215 Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Quinta-feira, dia 30 de agosto, tive uma reunião com meu co-orientador Renato Cordeiro para discutir a obtenção dos dados obtidos das…",fields:{slug:"/coleta-de-dados/"},frontmatter:{date:"02 September, 2018",title:"Coleta de dados"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-3794a9a0498aee748add.js.map

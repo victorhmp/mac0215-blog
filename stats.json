@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-0081ffb0c65d091100a5.js",
-      "path---my-second-post-0081ffb0c65d091100a5.js.map"
+    "path---coleta-de-dados": [
+      "path---coleta-de-dados-1f98f164fae78889a5b0.js",
+      "path---coleta-de-dados-1f98f164fae78889a5b0.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-60025312a182c7b133db.js",
@@ -24,17 +24,9 @@
       "component---src-layouts-index-js-7b8f0d924c5249546440.js",
       "component---src-layouts-index-js-7b8f0d924c5249546440.js.map"
     ],
-    "path---hi-folks": [
-      "path---hi-folks-6affa39d25ecf3b97c88.js",
-      "path---hi-folks-6affa39d25ecf3b97c88.js.map"
-    ],
     "path---index": [
-      "path---index-84350f37e7801c0643b8.js",
-      "path---index-84350f37e7801c0643b8.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-965832d0480799be700e.js",
-      "path---hello-world-965832d0480799be700e.js.map"
+      "path---index-3794a9a0498aee748add.js",
+      "path---index-3794a9a0498aee748add.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -55,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-1f416e326c61ce65fa53.js",
+      "app-410bacff5ab64c0f9a87.js",
       "build-js-styles.css",
-      "app-1f416e326c61ce65fa53.js.map",
+      "app-410bacff5ab64c0f9a87.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
