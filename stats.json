@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---coleta-de-dados": [
-      "path---coleta-de-dados-1f98f164fae78889a5b0.js",
-      "path---coleta-de-dados-1f98f164fae78889a5b0.js.map"
+      "path---coleta-de-dados-44083a36f0a4ab2a2deb.js",
+      "path---coleta-de-dados-44083a36f0a4ab2a2deb.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-60025312a182c7b133db.js",
@@ -24,9 +24,13 @@
       "component---src-layouts-index-js-7b8f0d924c5249546440.js",
       "component---src-layouts-index-js-7b8f0d924c5249546440.js.map"
     ],
+    "path---dados-originais": [
+      "path---dados-originais-b975ea0ae67f27e930a4.js",
+      "path---dados-originais-b975ea0ae67f27e930a4.js.map"
+    ],
     "path---index": [
-      "path---index-3794a9a0498aee748add.js",
-      "path---index-3794a9a0498aee748add.js.map"
+      "path---index-9bfcfd57ea1c99693ad6.js",
+      "path---index-9bfcfd57ea1c99693ad6.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -47,9 +51,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-410bacff5ab64c0f9a87.js",
+      "app-b8f60271a8940e308563.js",
       "build-js-styles.css",
-      "app-410bacff5ab64c0f9a87.js.map",
+      "app-b8f60271a8940e308563.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
