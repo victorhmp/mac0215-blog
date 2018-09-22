@@ -5,8 +5,8 @@
       "path---coleta-de-dados-44083a36f0a4ab2a2deb.js.map"
     ],
     "path---inferencia-de-genero": [
-      "path---inferencia-de-genero-e0a4f9b9b365bc6a7d69.js",
-      "path---inferencia-de-genero-e0a4f9b9b365bc6a7d69.js.map"
+      "path---inferencia-de-genero-9a8841c84aa1971f02d5.js",
+      "path---inferencia-de-genero-9a8841c84aa1971f02d5.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-60025312a182c7b133db.js",
@@ -29,12 +29,12 @@
       "component---src-layouts-index-js-7b8f0d924c5249546440.js.map"
     ],
     "path---dados-originais": [
-      "path---dados-originais-55827d0b3b05182c83fa.js",
-      "path---dados-originais-55827d0b3b05182c83fa.js.map"
+      "path---dados-originais-d632946abd0c9579b9b5.js",
+      "path---dados-originais-d632946abd0c9579b9b5.js.map"
     ],
     "path---index": [
-      "path---index-24d5e0cb484b741ae34f.js",
-      "path---index-24d5e0cb484b741ae34f.js.map"
+      "path---index-05a4a32c347ff2ba41d4.js",
+      "path---index-05a4a32c347ff2ba41d4.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -50,19 +50,23 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---padronizacao-de-campos": [
-      "path---padronizacao-de-campos-8da6ccd20a468de031cf.js",
-      "path---padronizacao-de-campos-8da6ccd20a468de031cf.js.map"
+    "path---padronizacao-de-campos-ii": [
+      "path---padronizacao-de-campos-ii-91836a034289318b081f.js",
+      "path---padronizacao-de-campos-ii-91836a034289318b081f.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-5292705f690002895c94.js",
+      "app-96ee32d2b6ae3fe5ae23.js",
       "build-js-styles.css",
-      "app-5292705f690002895c94.js.map",
+      "app-96ee32d2b6ae3fe5ae23.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---padronizacao-de-campos-i": [
+      "path---padronizacao-de-campos-i-fa7da41d6c312430cd5b.js",
+      "path---padronizacao-de-campos-i-fa7da41d6c312430cd5b.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
