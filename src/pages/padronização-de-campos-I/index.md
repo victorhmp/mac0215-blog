@@ -1,6 +1,6 @@
 ---
 title: Padronização de campos (Pt. 1)
-date: '2018-09-12T16:00'
+date: '2018-09-17T16:00'
 ---
 
 Durante a última semana (9-15 de setembro), trabalhei na padronização dos campos das planilhas de inscritos que foram coletadas na semana anterior.
