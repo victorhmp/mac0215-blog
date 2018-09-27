@@ -28,4 +28,4 @@ Preenchemos um campo que só havia sido preenchido na planilha da edição 2018.
 
 Por fim, apagamos inscrições duplicadas para não interferirem na análise posterior. Apagamos a segunda entrada de cada inscrição duplicada, ou seja, mantivemos a primeira inscrição feita pelo mesmo candidado.
 
-**Horas**: 4 horas
+**Horas**: 5 horas
