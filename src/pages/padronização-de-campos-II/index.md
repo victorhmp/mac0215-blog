@@ -27,3 +27,5 @@ Padronizamos também o campo "Você já participou de quantos hackathons?" de ac
 Preenchemos um campo que só havia sido preenchido na planilha da edição 2018.1, "Em que nível de estudo você está atualmente?", nos baseando nas respostas ao campo "Em que ano você está?", já que uma das possíveis respostas era "Pós-graduação".
 
 Por fim, apagamos inscrições duplicadas para não interferirem na análise posterior. Apagamos a segunda entrada de cada inscrição duplicada, ou seja, mantivemos a primeira inscrição feita pelo mesmo candidado.
+
+**Horas**: 4 horas

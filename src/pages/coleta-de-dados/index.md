@@ -1,6 +1,6 @@
 ---
 title: Coleta de dados
-date: "2018-09-02T12:00"
+date: '2018-09-02T12:00'
 ---
 
 Quinta-feira, dia 30 de agosto, tive uma reunião com meu co-orientador Renato Cordeiro para discutir a obtenção dos dados obtidos das incrições de edições anteriores do HackathonUSP.
@@ -12,3 +12,5 @@ Passamos por todas as planilhas e formulários para ter uma ideia de como os dad
 Ponderamos também a inclusão ou não dos dados referentes à edição 2016.1 do HackathonUSP, que ocorreu na sede da empresa Nubank, já que esse hackathon não foi exclusivamente para alunos da USP. Por enquanto, decidimos que vamos utilizar os dados referentes apenas aos alunos da USP incritos e selecionados, mas isso ainda será discutido futuramente.
 
 Por final, discutimos opções de onde armazenar os dados coletados de maneira que permitisse versionamento, conforme fossemos trabalhando sobre eles. Pensamos em opções como _Google Drive_, _Dropbox_ e _Git_, sendo a última a mais provável.
+
+**Horas**: 1 hora

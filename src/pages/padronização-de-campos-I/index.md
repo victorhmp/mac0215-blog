@@ -31,3 +31,5 @@ O padrão definido para as planilhas ficou com os campos a seguir, dispostos da 
 13. Se sim, conte-nos quem são
 14. Endereço de e-mail
 15. Em que nível de estudo você está atualmente?
+
+**Horas**: 5 horas
